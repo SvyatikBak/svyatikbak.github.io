@@ -50,7 +50,7 @@ SBMF 1.2.7 has all the feature of its equivalent for a1.1.2_01.
 
 SBMF Changelog:
 
-SBMF v1.1.3: Secret Saturday update 1:
+SBMF v1.1.3: Secret Saturday update 1: (released in the end of summer 2024)
 svyatikbak's minecraft fork
 added dyed planks
 fixed leaf decay
@@ -78,6 +78,6 @@ Camera no longer rotates with minecart
 Nerfed dyes crafting recipes, now they give only 2
 Dyed planks now can be turned into sticks
 
-SBMF v1.1.5:
+SBMF v1.1.5: 14.02.2025
 Smooth deepslate now generates on y10 and below
 Added cooked eggs
