@@ -26,8 +26,6 @@ CraftingFix_1.12.2 - Fixed stairs and powered rails crafting recipes.
 
 CraftingFix_And_NoVoidFog_1.7.10 - No void fog and fixed stairs and powered rails crafting recipes.
 
-Green_grass_sbmf_1.2.7 - Green grass for SBMF 1.2.7
-
 LICENSE - MIT License.
 
 b1.1_02 - fixed some crafting recipes like doors, signs, ladders, slabs, changed version number in
@@ -43,10 +41,6 @@ fixed boats. Minecart doesn't rotate with camera. changed version number in top-
 glass and bookshelf now drops. Third person is R, debug screen is F.
 
 b1.8.1_grass_fix.zip - bright foliage and grass, also clear grass.
-
-neon_grass_sbmf_1.2.7 - neon grass for SBMF 1.2.7.
-
-SBMF 1.2.7 has all the feature of its equivalent for a1.1.2_01.
 
 SBMF Changelog:
 
@@ -69,7 +63,7 @@ Increased tree density
 Made reeds, clay, cactus more common
 Glass now drops
 
-SBMF v1.1.4: Secret Friday update 2:
+SBMF v1.1.4: Secret Friday update 2: (relased somewhere in middle of autumn 2024)
 Changed glass texture
 Added torch block
 Added redstone block
