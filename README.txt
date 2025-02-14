@@ -77,3 +77,7 @@ Added deepslate
 Camera no longer rotates with minecart
 Nerfed dyes crafting recipes, now they give only 2
 Dyed planks now can be turned into sticks
+
+SBMF v1.1.5:
+Smooth deepslate now generates on y10 and below
+Added cooked eggs
