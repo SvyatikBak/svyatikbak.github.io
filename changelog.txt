@@ -75,3 +75,4 @@ Dyed planks now can be turned into sticks
 SBMF v1.1.5: 14.02.2025
 Smooth deepslate now generates on y10 and below
 Added cooked eggs
+Added debug item pickaxeBedrock
