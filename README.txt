@@ -41,38 +41,3 @@ fixed boats. Minecart doesn't rotate with camera. changed version number in top-
 glass and bookshelf now drops. Third person is R, debug screen is F.
 
 b1.8.1_grass_fix.zip - bright foliage and grass, also clear grass.
-
-SBMF Changelog:
-
-SBMF v1.1.3: Secret Saturday update 1: (released in the end of summer 2024)
-svyatikbak's minecraft fork
-added dyed planks
-fixed leaf decay
-betterized f3
-added bricks stairs
-added stone bricks and smooth stone
-Disabled cave sounds and tnt particles
-Changed copyright
-Added quit button
-Removed play tutorial button
-sbmf_saves folder is used instead of saves
-bookshelf now drops
-
-SBMF v1.1.3_01: Patch:
-Increased tree density
-Made reeds, clay, cactus more common
-Glass now drops
-
-SBMF v1.1.4: Secret Friday update 2: (relased somewhere in middle of autumn 2024)
-Changed glass texture
-Added torch block
-Added redstone block
-Added deepslate
-Camera no longer rotates with minecart
-Nerfed dyes crafting recipes, now they give only 2
-Dyed planks now can be turned into sticks
-
-SBMF v1.1.5: 14.02.2025
-Smooth deepslate now generates on y10 and below
-Added cooked eggs
-Added debug item pickaxeBedrock
