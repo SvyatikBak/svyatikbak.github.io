@@ -31,13 +31,46 @@ body {
   cursor: pointer;
 }
 
+a {
+  text-decoration: none;
+}
+
 .container {
   width: 100%;
   max-width: 1280px;
   margin-inline: auto;
   font-size: 20px;
-  background-color: white;
+  background-color: #f1f1f1;
   padding: 5px 10px;
-  min-height: 100vh;
+  min-height: calc(100vh - 40px);
   margin-top: 29px;
+  font-family: sans-serif;
+}
+
+.container img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+details summary {
+  list-style: none;
+  pointer-events: none;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary .arrow {
+  pointer-events: auto;
+  font-size: 11px;
+  user-select: none;
+}
+
+details[open] summary .arrow {
+  transform: rotate(90deg);
 }
