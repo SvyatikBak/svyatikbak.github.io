@@ -71,6 +71,6 @@ details summary .arrow {
   user-select: none;
 }
 
-details[open] summary .arrow {
-  transform: rotate(90deg);
+details summary a {
+  pointer-events: auto;
 }
